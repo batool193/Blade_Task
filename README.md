@@ -12,6 +12,8 @@ Tasks CRUD
 
 Use Cron Job to send daily report to users for pending tasks
 
+Cron jobs are time-based tasks that run automatically at specified intervals on a Unix-based system
+
 Create a Custom Command  
 php artisan make:command DailyMail
 
